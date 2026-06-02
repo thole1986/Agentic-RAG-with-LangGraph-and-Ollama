@@ -1,0 +1,33 @@
+# Core dependencies
+python-dotenv
+pydantic
+typing-extensions
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langgraph
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+langchain_mcp_adapters
+
+# Document processing
+docling[vlm]
+
+# Vector stores
+langchain-chroma
+
+# API clients
+tavily-python
+
+# Web searching
+ddgs
+
+# Database
+psycopg
+psycopg-binary
+
+# Utilities
+rank_bm25
