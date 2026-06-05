@@ -167,7 +167,4 @@ cython_debug/
 *.bin 
 *.db
 nul
-.claude/settings.local.json
-.claude
 *.sqlite3
-.claude/*
