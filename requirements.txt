@@ -7,8 +7,10 @@ typing-extensions
 langchain
 langchain-community
 langchain-core
+langchain-openai
 langchain-ollama
 langgraph
+langfuse
 langgraph-checkpoint-sqlite
 langgraph-checkpoint-postgres
 langchain_mcp_adapters
