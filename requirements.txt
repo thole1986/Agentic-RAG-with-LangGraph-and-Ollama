@@ -2,6 +2,7 @@
 python-dotenv
 pydantic
 typing-extensions
+pypdf
 
 # LangChain ecosystem
 langchain
